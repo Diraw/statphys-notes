@@ -9,8 +9,10 @@ simulation methods, and research projects.
 :maxdepth: 2
 :caption: Contents
 
+git-workflow
 intro
 theory/index
 methods/index
 projects/index
 notes/index
+```
