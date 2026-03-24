@@ -1,6 +1,6 @@
 # Notes
 
-```{toctree}
+```{toctree}```
 :maxdepth: 1
 
 reading-notes
@@ -16,4 +16,4 @@ descriptions {cite}`Binder2019-tw`.
 
 ## References
 
-```{bibliography}
+```{bibliography}```
