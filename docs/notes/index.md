@@ -5,6 +5,7 @@
 
 reading-notes
 seminar-notes
+boltzmann_distribution
 ```
 
 
